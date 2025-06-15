@@ -42,7 +42,7 @@ void loop() {
   Serial.print("Gas Level: ");
   Serial.println(gasLevel);
 
-  if (gasLevel > 300) {
+  if (gasLevel > 20) {
     digitalWrite(buzzer, HIGH);
     digitalWrite(led, HIGH);
   } else {
