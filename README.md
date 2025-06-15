@@ -16,7 +16,7 @@ This project uses an **MQ gas sensor** with an **Arduino Uno** to detect the pre
 - Breadboard
 
 ## 🔌 Circuit Diagram
-> ![Wiring](images/wiring-diagram.png)
+
 
 | Arduino | MQ Sensor |
 |---------|-----------|
